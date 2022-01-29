@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+In this assignment, I had to create a fortune teller game which ouputs a certain fortune based on a number between 0 and 10. By using conditionals, the code would say I had a low fortune if I chose 0-3, an average fortune for 4-7, and a high fortune to 8-10. If the number wasn't 0-10, the ouput would tell me that my fortune is hard to determine.

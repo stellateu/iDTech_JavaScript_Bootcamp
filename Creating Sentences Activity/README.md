@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In this assignment I changeed an array of words into a string variable "sentence". All the elements are words in one sentence, but need spaces in between them to create a sentence. With the string variable "sentence," which only consists of a space, I used the function createSentence with a for loop to change the "sentence" variable into displaying "This is Javascript Bootcamp"

@@ -1,1 +1,2 @@
 # Debugging Activity
+In this assignment I debugged example 1,3 and 4. For the first one, I had to debug an infinite loop. Example 3 I'm assuming I had to check the parameters of the functions that were used. In the last one I had to make sure that a 10 digit password would be accepted by the program. 

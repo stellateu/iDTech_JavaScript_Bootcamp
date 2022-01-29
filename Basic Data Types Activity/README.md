@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this assignment I used different data types to create a story. For this story, 4 string variable, 3 integer variables, 1 array variable, and 1 booelean were needed. I used my string variables to describe my character, while I used my integer variables to describe the time, amount and place she's traveling to. I used the cities array to choose some of her favorites cities, and the boolean was used to confirm/ conclude her thoughts.

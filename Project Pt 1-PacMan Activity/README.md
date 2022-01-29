@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+For the PacMan activity I had to make sure that Pacman was actively going side to side on my browser and changing directions when he hit the edge of the browser. To do this, I had to create the function checkBounds, to use his position and imageWidth to determine wether or not the PacMan had to change directions. I also had to add a setInterval command to make the Run function run autimatically. 
